@@ -1,4 +1,4 @@
 class Dog 
-  @dog 
+  
 end 
 
